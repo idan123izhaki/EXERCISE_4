@@ -1,0 +1,4 @@
+friends    1
+hello    2
+my    1
+world    1
